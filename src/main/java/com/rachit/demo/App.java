@@ -11,7 +11,7 @@ public class App {
 	
 	@GetMapping("/greeting")
 	public String greetingMessage() {
-		return "Waoo! Congrats sabre team your application deployed successfully";
+		return "Waoo! Congrats sabre team your application deployed successfully- Have a good time";
 	}
 
 	public static void main(String[] args) {
